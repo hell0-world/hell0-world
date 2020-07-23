@@ -2,7 +2,7 @@
 
 #### 🌱 I’m currently learning 
 <ul>
-<li> Web Applications Architecture
+<li> Web & Mobile Applications Architecture
 <ul>
 <li> Hybrid application technologies - React Native
 <li> Node.js server architecture 
