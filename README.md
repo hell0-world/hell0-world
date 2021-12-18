@@ -2,12 +2,10 @@
 
 #### 🌱 I’m currently learning 
 <ul>
-<li> Web & Mobile Applications Architecture
+<li> Backend Technologies
 <ul>
-<li> Hybrid application technologies - React Native
-<li> Node.js server architecture 
-<li> MongoDB skills
-<li> Algorithms
+<li> JAVA
+<li> Spring
 </ul>
 </ul>
 
